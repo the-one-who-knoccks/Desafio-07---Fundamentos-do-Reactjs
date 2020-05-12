@@ -1,4 +1,4 @@
-# Desafio-07---Fundamentos-do-Reactjs
+# GoStack 11 - Desafio-07 Fundamentos do Reactjs
 
 
     Desafio realizado durante o Bootcamp GoStack11. Construção do front-end com ReactJS e TypeScript 
@@ -7,7 +7,7 @@
 
 
 
-
+# Preview da aplicação.
 
 <img src="/prev/prev.png">
 </br>
